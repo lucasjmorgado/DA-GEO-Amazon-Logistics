@@ -61,7 +61,7 @@ Check here with an interective Map. [Link](https://nbviewer.org/github/lucasjmor
 
 Following the following article, its visible to see the areas with most emission having similarities in our drop off dash:
 
-![CO2 Emissions in India](https://www.researchgate.net/publication/347625606/figure/fig2/AS:975026589278208@1609475862443/Carbon-footprints-per-capita-in-623-districts-in-India-Choropleth-map-showing-the.png) 
+![CO2 Emissions in India](https://raw.githubusercontent.com/lucasjmorgado/DA-GEO-Amazon-Logistics/refs/heads/main/SourceStudy0.png) 
 
 ### Calculated Distances Overview
 - Estimated distances between store and drop-off locations using both methods (geodesic and GCP) along with their median error values.
